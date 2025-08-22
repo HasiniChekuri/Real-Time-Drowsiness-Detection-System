@@ -47,7 +47,7 @@ It provides **real-time visual feedback** and **audio alerts**.
 drowsiness-detection/
 ├── drowsiness_detection.py                  # Main Python script
 ├── shape_predictor_68_face_landmarks.dat    # Dlib pretrained model
-├── dark_gradient_img.jpeg                   # Background image for Tkinter GUI                      
+├── GUI Interface demo                       # Tkinter GUI with start button                      
 ├── README.md                                # Project documentation
 └── requirements.txt                         # Python dependencies
 ```
